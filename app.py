@@ -106,7 +106,7 @@ st.title("🏦 SME Beneficiary Selection — ML Decision Support")
 st.markdown(
     "Enter an SME applicant's details below. The model predicts whether they would "
     "have been selected for the commercial bank-sponsored development programme, "
-    "based on patterns learned from 851 historical applications."
+    "based on patterns learned from historical Data."
 )
 st.info(
     "⚠️ **Research tool only.** This system is a dissertation demonstration. "
@@ -313,7 +313,7 @@ if submitted:
 # ── Footer ─────────────────────────────────────────────────────────────────────
 st.divider()
 st.caption(
-    "**Dissertation:** Application of Machine Learning Models for Data-Driven Beneficiary Selection "
-    "in Sponsored SME Development Programmes in Nigeria · "
+    "**Dissertation:** Explainable AI-Based Machine Learning Models for Data-Driven Decision Support "
+    "in Beneficiary Selection for Sponsored SME Development Programmes in Nigeria · "
     "Pan-Atlantic University MSc Data Science · Ebere Onuoha · August 2026"
 )
